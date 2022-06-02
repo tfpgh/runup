@@ -1,2 +1,2 @@
 # runup
-A simple Linux CLI to automatically run your programs on system startup
+A simple Linux CLI to automatically run your programs on startup
